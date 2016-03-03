@@ -63,10 +63,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[GeneratedDocument1]
-DocumentPath=Source\Passive Component Symbols.cmp
-DItemRevisionGUID=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
