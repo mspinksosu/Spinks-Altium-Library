@@ -1,6 +1,6 @@
 # Spinks-Altium-Library
 
-######In order to try keep things organized, components will be separated into folders by category.
+##### In order to try keep things organized, components will be separated into folders by category.
 
   * Each category will be compiled into an integrated library. 
 
@@ -10,5 +10,5 @@
 
   * The integrated library file will be in the project outputs folder (.IntLib)
 
-#####The integrated library file (.IntLib) is the complete, compiled library. All footprints and symbols from the source folder are contained within it. For ease of use, or if you intend to share this library, use this file.
+##### The integrated library file (.IntLib) is the complete, compiled library. All footprints and symbols from the source folder are contained within it. For ease of use, or if you intend to share this library, use this file.
 
