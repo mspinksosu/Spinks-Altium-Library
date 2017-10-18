@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UYVVAKRY
 
 [Document6]
-DocumentPath=Source\Circuit Protection Footprints.SchLib
+DocumentPath=Source\Circuit Protection Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
