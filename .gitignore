@@ -1,2 +1,10 @@
 #Ignore any history files
 *.zip
+
+#Ignore history folders
+Connectors/History
+Electromechanical/History
+Integrated Circuits/History
+Passive Components/History
+Semiconductors/History
+Specialty Components/History
